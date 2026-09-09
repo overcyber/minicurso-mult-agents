@@ -1,0 +1,43 @@
+# --- nucleo do curso ---
+langchain>=1.0
+langchain-core>=1.0
+langchain-ollama>=1.0
+langchain-openai>=1.0
+langchain-community>=0.3
+langchain-chroma>=0.2
+langchain-huggingface>=0.3
+langchain-text-splitters>=0.3
+langgraph>=1.0
+langgraph-checkpoint-sqlite>=2.0
+openai>=1.40
+chromadb>=0.5
+pydantic>=2.7
+python-dotenv>=1.0
+
+# --- dia 3: ferramentas web ---
+ddgs>=9.0
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.2
+# selenium so e necessario para paginas que exigem JavaScript
+selenium>=4.20
+
+# --- dia 4: interface ---
+gradio>=5.9
+
+# --- dia 5: hugging face ---
+transformers>=4.44
+sentence-transformers>=3.0
+huggingface_hub>=0.24
+pandas>=2.2
+wordcloud>=1.9
+matplotlib>=3.8
+
+# --- opcional: PDF, avaliacao, busca paga ---
+pypdf>=4.2
+# ragas>=0.2
+# langchain-tavily>=0.1
+
+# --- utilitarios ---
+rich>=13.7
+pytest>=8.0

@@ -1,0 +1,52 @@
+[
+  {
+    "remetente": "marina.alves@cooperativavaleverde.com.br",
+    "assunto": "Prazo de troca do equipamento",
+    "corpo": "Bom dia. Comprei o modelo VX-200 ha doze dias e ele nao atende ao que precisamos. Qual e o prazo para solicitar a troca e o que preciso enviar junto?"
+  },
+  {
+    "remetente": "carlos.mendes@agropecuariasaojoao.com",
+    "assunto": "Proposta para 40 unidades",
+    "corpo": "Preciso de um orcamento para 40 unidades do VX-200 com entrega em Ribeirao Preto. Temos CNPJ ativo e pagamos a vista. Podem enviar ate sexta?"
+  },
+  {
+    "remetente": "juliana.rocha@fazendaboavista.com.br",
+    "assunto": "URGENTE - equipamento parado ha tres dias",
+    "corpo": "Tres dias com a linha parada. Abri o chamado 44821 na segunda e ninguem retornou. Cada dia parado custa cerca de quatro mil reais. Se nao houver retorno hoje vamos cancelar o contrato e acionar o juridico."
+  },
+  {
+    "remetente": "promocoes@ofertasimperdiveis.biz",
+    "assunto": "VOCE FOI SELECIONADO!!! Clique agora",
+    "corpo": "Parabens! Voce ganhou um premio de R$ 15.000. Clique no link abaixo e informe seus dados bancarios para receber hoje mesmo. Oferta valida por 2 horas."
+  },
+  {
+    "remetente": "roberto.lima@transportadoralima.com.br",
+    "assunto": "Duvida sobre garantia",
+    "corpo": "A garantia de 24 meses cobre desgaste por uso continuo em turno duplo? Operamos dezesseis horas por dia e queria confirmar antes de fechar o pedido."
+  },
+  {
+    "remetente": "ana.paula@sitiodascolinas.com",
+    "assunto": "Nota fiscal nao chegou",
+    "corpo": "Recebi o produto na quarta mas a nota fiscal nao veio na caixa nem por e-mail. Preciso dela para o contador ate o dia 10. Podem reenviar?"
+  },
+  {
+    "remetente": "fernando.souza@construtorafs.com.br",
+    "assunto": "Reclamacao - segunda vez com o mesmo defeito",
+    "corpo": "E a segunda vez que o mesmo componente falha em quatro meses. Da primeira vez trocaram a peca e disseram que era caso isolado. Nao foi. Quero uma solucao definitiva ou a devolucao do valor."
+  },
+  {
+    "remetente": "patricia.gomes@cooperativavaleverde.com.br",
+    "assunto": "Manual em portugues",
+    "corpo": "O manual que veio na embalagem esta so em ingles e espanhol. Existe versao em portugues para download? Meus operadores nao leem ingles."
+  },
+  {
+    "remetente": "diretoria@institutopesquisaagro.org.br",
+    "assunto": "Convite para painel tecnico",
+    "corpo": "Estamos organizando um painel sobre mecanizacao em outubro e gostariamos de convidar um representante tecnico de voces para falar por vinte minutos. Ha interesse?"
+  },
+  {
+    "remetente": "lucas.ferreira@granjaboaesperanca.com.br",
+    "assunto": "Preco de reposicao do filtro",
+    "corpo": "Quanto custa o filtro de reposicao codigo FR-88 e qual o prazo de entrega para Goiania? Preciso de seis unidades."
+  }
+]

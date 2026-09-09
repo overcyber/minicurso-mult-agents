@@ -1,0 +1,15 @@
+# Conjunto de avaliacao do NEXUS - dez casos.
+# Formato: id, pergunta, esperado, fonte (arquivos que a resposta deve citar).
+# "esperado": "RECUSAR" significa que a resposta CORRETA e admitir que nao sabe.
+# Dez casos sao poucos para estatistica e suficientes para regressao: o objetivo
+# e perceber quando uma mudanca quebrou algo que funcionava.
+{"id": "q1", "pergunta": "Qual foi o faturamento bruto de 2024?", "esperado": "5.640.000", "fonte": "2024_relatorio.md"}
+{"id": "q2", "pergunta": "Qual foi o faturamento bruto de 2023?", "esperado": "4.820.000", "fonte": "2023_relatorio.md"}
+{"id": "q3", "pergunta": "Some o faturamento de 2023 e 2024 e diga a media dos dois anos.", "esperado": "5.230.000", "fonte": "2023_relatorio.md,2024_relatorio.md"}
+{"id": "q4", "pergunta": "Quantos cooperados a cooperativa tinha ao fim de 2024?", "esperado": "261", "fonte": "2024_relatorio.md"}
+{"id": "q5", "pergunta": "Considerando 3.400 caixas por mes, qual fornecedor de embalagens sai mais barato por mes, somando preco unitario e mensalidade?", "esperado": "Verde Embalagens", "fonte": "fornecedores.md"}
+{"id": "q6", "pergunta": "Qual e o valor da quota-parte de ingresso, e em quantas vezes pode ser parcelada?", "esperado": "1.200,00 em ate 6 vezes", "fonte": "estatuto.md"}
+{"id": "q7", "pergunta": "Um contrato de fornecimento de 30 meses precisa de aprovacao de quem?", "esperado": "Conselho de Administracao", "fonte": "estatuto.md"}
+{"id": "q8", "pergunta": "Quanto foi o custo mensal de logistica com a TransCampo, considerando 22 rotas?", "esperado": "49.700", "fonte": "fornecedores.md"}
+{"id": "q9", "pergunta": "Qual foi o faturamento da cooperativa em 2030?", "esperado": "RECUSAR", "fonte": ""}
+{"id": "q10", "pergunta": "Quem e o atual presidente do conselho fiscal da cooperativa?", "esperado": "RECUSAR", "fonte": ""}

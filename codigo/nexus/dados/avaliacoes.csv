@@ -1,0 +1,301 @@
+id,produto,texto,descricao
+1,VX-200,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+2,VX-100,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola compacto motorizado para pequenas propriedades
+3,Esteira EX-5,"Robusto, silencioso e economico. Superou a expectativa.",Esteira transportadora industrial em lona reforcada com motor eletrico
+4,VX-200,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+5,VX-100,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Equipamento agricola compacto motorizado para pequenas propriedades
+6,Esteira EX-5,"Robusto, silencioso e economico. Superou a expectativa.",Esteira transportadora industrial em lona reforcada com motor eletrico
+7,VX-100,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Equipamento agricola compacto motorizado para pequenas propriedades
+8,VX-200,"O suporte e inexistente, esperei nove dias por uma resposta.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+9,Kit Manutencao,Vale cada centavo. Reduziu o tempo de operacao pela metade.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+10,VX-100,Peca de reposicao caríssima e sempre em falta no estoque.,Equipamento agricola compacto motorizado para pequenas propriedades
+11,VX-200,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+12,Filtro FR-88,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+13,Filtro FR-88,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+14,Esteira EX-5,"Robusto, silencioso e economico. Superou a expectativa.",Esteira transportadora industrial em lona reforcada com motor eletrico
+15,VX-200,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+16,Esteira EX-5,"Excelente acabamento, muito superior ao que eu usava antes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+17,VX-200,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+18,VX-200,Quebrou em duas semanas de uso normal. Pessimo.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+19,Kit Manutencao,"Ja e o terceiro que compro, nunca me deixou na mao.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+20,VX-100,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola compacto motorizado para pequenas propriedades
+21,Filtro FR-88,Quebrou em duas semanas de uso normal. Pessimo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+22,Esteira EX-5,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Esteira transportadora industrial em lona reforcada com motor eletrico
+23,VX-100,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola compacto motorizado para pequenas propriedades
+24,Esteira EX-5,"Ja e o terceiro que compro, nunca me deixou na mao.",Esteira transportadora industrial em lona reforcada com motor eletrico
+25,VX-200,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+26,Filtro FR-88,"Excelente acabamento, muito superior ao que eu usava antes.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+27,VX-100,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Equipamento agricola compacto motorizado para pequenas propriedades
+28,Filtro FR-88,Entrega pontual e embalagem impecavel. Produto perfeito.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+29,Kit Manutencao,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+30,VX-100,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola compacto motorizado para pequenas propriedades
+31,Esteira EX-5,Razoavel. Esperava um pouco mais de potencia pelo valor.,Esteira transportadora industrial em lona reforcada com motor eletrico
+32,Esteira EX-5,Atendimento rapido e produto de qualidade. Recomendo.,Esteira transportadora industrial em lona reforcada com motor eletrico
+33,VX-100,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Equipamento agricola compacto motorizado para pequenas propriedades
+34,VX-200,"O suporte e inexistente, esperei nove dias por uma resposta.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+35,VX-100,"Manual so em ingles, meus operadores nao conseguiram usar.",Equipamento agricola compacto motorizado para pequenas propriedades
+36,Esteira EX-5,"Robusto, silencioso e economico. Superou a expectativa.",Esteira transportadora industrial em lona reforcada com motor eletrico
+37,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+38,Filtro FR-88,Chegou com a carcaca amassada e ninguem respondeu meu chamado.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+39,VX-200,Consumo de energia muito acima do que diz a ficha tecnica.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+40,Filtro FR-88,Peca de reposicao caríssima e sempre em falta no estoque.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+41,VX-200,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+42,Kit Manutencao,"Instalacao simples, o manual e claro e o suporte respondeu na hora.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+43,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+44,VX-200,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+45,Esteira EX-5,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Esteira transportadora industrial em lona reforcada com motor eletrico
+46,Filtro FR-88,Consumo de energia muito acima do que diz a ficha tecnica.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+47,Esteira EX-5,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+48,Filtro FR-88,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+49,Filtro FR-88,Entrega atrasou quinze dias e o produto veio incompleto.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+50,VX-100,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola compacto motorizado para pequenas propriedades
+51,VX-200,Quebrou em duas semanas de uso normal. Pessimo.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+52,Esteira EX-5,"O suporte e inexistente, esperei nove dias por uma resposta.",Esteira transportadora industrial em lona reforcada com motor eletrico
+53,Kit Manutencao,"O suporte e inexistente, esperei nove dias por uma resposta.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+54,Filtro FR-88,Razoavel. Esperava um pouco mais de potencia pelo valor.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+55,VX-100,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Equipamento agricola compacto motorizado para pequenas propriedades
+56,Filtro FR-88,"Ja e o terceiro que compro, nunca me deixou na mao.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+57,Kit Manutencao,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+58,VX-200,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+59,Filtro FR-88,Atendimento rapido e produto de qualidade. Recomendo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+60,Esteira EX-5,"Excelente acabamento, muito superior ao que eu usava antes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+61,VX-200,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+62,Filtro FR-88,Atendimento rapido e produto de qualidade. Recomendo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+63,Filtro FR-88,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+64,Esteira EX-5,Entrega pontual e embalagem impecavel. Produto perfeito.,Esteira transportadora industrial em lona reforcada com motor eletrico
+65,VX-100,"Manual so em ingles, meus operadores nao conseguiram usar.",Equipamento agricola compacto motorizado para pequenas propriedades
+66,VX-100,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola compacto motorizado para pequenas propriedades
+67,Filtro FR-88,Entrega pontual e embalagem impecavel. Produto perfeito.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+68,VX-200,Quebrou em duas semanas de uso normal. Pessimo.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+69,VX-200,"Ja e o terceiro que compro, nunca me deixou na mao.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+70,VX-200,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+71,Esteira EX-5,"Robusto, silencioso e economico. Superou a expectativa.",Esteira transportadora industrial em lona reforcada com motor eletrico
+72,VX-100,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola compacto motorizado para pequenas propriedades
+73,VX-200,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+74,VX-200,Consumo de energia muito acima do que diz a ficha tecnica.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+75,VX-200,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+76,VX-100,Entrega pontual e embalagem impecavel. Produto perfeito.,Equipamento agricola compacto motorizado para pequenas propriedades
+77,VX-100,Chegou com a carcaca amassada e ninguem respondeu meu chamado.,Equipamento agricola compacto motorizado para pequenas propriedades
+78,VX-100,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola compacto motorizado para pequenas propriedades
+79,Filtro FR-88,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+80,Filtro FR-88,Entrega pontual e embalagem impecavel. Produto perfeito.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+81,VX-100,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola compacto motorizado para pequenas propriedades
+82,VX-200,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+83,Filtro FR-88,Entrega pontual e embalagem impecavel. Produto perfeito.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+84,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+85,VX-100,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola compacto motorizado para pequenas propriedades
+86,VX-100,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola compacto motorizado para pequenas propriedades
+87,VX-100,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola compacto motorizado para pequenas propriedades
+88,Esteira EX-5,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Esteira transportadora industrial em lona reforcada com motor eletrico
+89,Kit Manutencao,"Atendimento despreparado, transferiram minha ligacao quatro vezes.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+90,Esteira EX-5,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Esteira transportadora industrial em lona reforcada com motor eletrico
+91,VX-100,Peca de reposicao caríssima e sempre em falta no estoque.,Equipamento agricola compacto motorizado para pequenas propriedades
+92,VX-100,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola compacto motorizado para pequenas propriedades
+93,Filtro FR-88,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+94,VX-200,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+95,VX-200,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+96,VX-100,Quebrou em duas semanas de uso normal. Pessimo.,Equipamento agricola compacto motorizado para pequenas propriedades
+97,VX-100,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola compacto motorizado para pequenas propriedades
+98,Kit Manutencao,Entrega atrasou quinze dias e o produto veio incompleto.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+99,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+100,VX-200,Consumo de energia muito acima do que diz a ficha tecnica.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+101,Filtro FR-88,Quebrou em duas semanas de uso normal. Pessimo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+102,VX-100,"Excelente acabamento, muito superior ao que eu usava antes.",Equipamento agricola compacto motorizado para pequenas propriedades
+103,Esteira EX-5,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Esteira transportadora industrial em lona reforcada com motor eletrico
+104,Esteira EX-5,"Ja e o terceiro que compro, nunca me deixou na mao.",Esteira transportadora industrial em lona reforcada com motor eletrico
+105,VX-100,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola compacto motorizado para pequenas propriedades
+106,Esteira EX-5,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Esteira transportadora industrial em lona reforcada com motor eletrico
+107,VX-200,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+108,VX-200,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+109,Filtro FR-88,Entrega pontual e embalagem impecavel. Produto perfeito.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+110,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+111,VX-200,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+112,Esteira EX-5,"Ja e o terceiro que compro, nunca me deixou na mao.",Esteira transportadora industrial em lona reforcada com motor eletrico
+113,Esteira EX-5,Razoavel. Esperava um pouco mais de potencia pelo valor.,Esteira transportadora industrial em lona reforcada com motor eletrico
+114,VX-100,"Ja e o terceiro que compro, nunca me deixou na mao.",Equipamento agricola compacto motorizado para pequenas propriedades
+115,VX-200,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+116,VX-100,Peca de reposicao caríssima e sempre em falta no estoque.,Equipamento agricola compacto motorizado para pequenas propriedades
+117,Esteira EX-5,"Manual so em ingles, meus operadores nao conseguiram usar.",Esteira transportadora industrial em lona reforcada com motor eletrico
+118,Esteira EX-5,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Esteira transportadora industrial em lona reforcada com motor eletrico
+119,VX-100,"O suporte e inexistente, esperei nove dias por uma resposta.",Equipamento agricola compacto motorizado para pequenas propriedades
+120,Kit Manutencao,"Ja e o terceiro que compro, nunca me deixou na mao.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+121,Kit Manutencao,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+122,Filtro FR-88,"Excelente acabamento, muito superior ao que eu usava antes.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+123,Kit Manutencao,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+124,VX-100,Entrega pontual e embalagem impecavel. Produto perfeito.,Equipamento agricola compacto motorizado para pequenas propriedades
+125,Filtro FR-88,Atendimento rapido e produto de qualidade. Recomendo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+126,VX-100,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola compacto motorizado para pequenas propriedades
+127,Kit Manutencao,"Excelente acabamento, muito superior ao que eu usava antes.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+128,Filtro FR-88,"Robusto, silencioso e economico. Superou a expectativa.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+129,Esteira EX-5,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,Esteira transportadora industrial em lona reforcada com motor eletrico
+130,VX-200,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+131,VX-100,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola compacto motorizado para pequenas propriedades
+132,VX-200,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+133,Filtro FR-88,Peca de reposicao caríssima e sempre em falta no estoque.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+134,Kit Manutencao,"Funciona como esperado, nada de excepcional mas cumpre o que promete.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+135,Kit Manutencao,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+136,Filtro FR-88,"Robusto, silencioso e economico. Superou a expectativa.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+137,VX-200,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+138,Filtro FR-88,"Ja e o terceiro que compro, nunca me deixou na mao.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+139,Esteira EX-5,"Excelente acabamento, muito superior ao que eu usava antes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+140,Filtro FR-88,Razoavel. Esperava um pouco mais de potencia pelo valor.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+141,Filtro FR-88,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+142,Esteira EX-5,"Robusto, silencioso e economico. Superou a expectativa.",Esteira transportadora industrial em lona reforcada com motor eletrico
+143,Kit Manutencao,"O suporte e inexistente, esperei nove dias por uma resposta.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+144,Esteira EX-5,Razoavel. Esperava um pouco mais de potencia pelo valor.,Esteira transportadora industrial em lona reforcada com motor eletrico
+145,Esteira EX-5,Entrega atrasou quinze dias e o produto veio incompleto.,Esteira transportadora industrial em lona reforcada com motor eletrico
+146,Filtro FR-88,"Ja e o terceiro que compro, nunca me deixou na mao.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+147,Kit Manutencao,Atendimento rapido e produto de qualidade. Recomendo.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+148,Esteira EX-5,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Esteira transportadora industrial em lona reforcada com motor eletrico
+149,VX-200,"Ja e o terceiro que compro, nunca me deixou na mao.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+150,VX-200,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+151,Filtro FR-88,Atendimento rapido e produto de qualidade. Recomendo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+152,VX-100,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola compacto motorizado para pequenas propriedades
+153,Kit Manutencao,"Funciona como esperado, nada de excepcional mas cumpre o que promete.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+154,Kit Manutencao,Atendimento rapido e produto de qualidade. Recomendo.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+155,Kit Manutencao,"Produto ok pelo preco, embora o manual pudesse ser melhor.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+156,VX-100,Chegou com a carcaca amassada e ninguem respondeu meu chamado.,Equipamento agricola compacto motorizado para pequenas propriedades
+157,VX-200,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+158,VX-100,Consumo de energia muito acima do que diz a ficha tecnica.,Equipamento agricola compacto motorizado para pequenas propriedades
+159,Kit Manutencao,Atendimento rapido e produto de qualidade. Recomendo.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+160,VX-200,Razoavel. Esperava um pouco mais de potencia pelo valor.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+161,Esteira EX-5,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+162,Filtro FR-88,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+163,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+164,Kit Manutencao,Consumo de energia muito acima do que diz a ficha tecnica.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+165,Kit Manutencao,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+166,Kit Manutencao,Atendimento rapido e produto de qualidade. Recomendo.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+167,Filtro FR-88,Consumo de energia muito acima do que diz a ficha tecnica.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+168,Kit Manutencao,"Atende bem, mas o prazo de entrega foi maior que o informado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+169,Kit Manutencao,"Instalacao simples, o manual e claro e o suporte respondeu na hora.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+170,VX-100,"Ja e o terceiro que compro, nunca me deixou na mao.",Equipamento agricola compacto motorizado para pequenas propriedades
+171,Esteira EX-5,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Esteira transportadora industrial em lona reforcada com motor eletrico
+172,VX-100,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola compacto motorizado para pequenas propriedades
+173,VX-100,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola compacto motorizado para pequenas propriedades
+174,Filtro FR-88,Razoavel. Esperava um pouco mais de potencia pelo valor.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+175,VX-200,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+176,Kit Manutencao,"Atendimento despreparado, transferiram minha ligacao quatro vezes.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+177,VX-200,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+178,Kit Manutencao,"Atende bem, mas o prazo de entrega foi maior que o informado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+179,Filtro FR-88,"Manual so em ingles, meus operadores nao conseguiram usar.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+180,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+181,Esteira EX-5,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Esteira transportadora industrial em lona reforcada com motor eletrico
+182,VX-100,Entrega pontual e embalagem impecavel. Produto perfeito.,Equipamento agricola compacto motorizado para pequenas propriedades
+183,VX-200,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+184,VX-100,"O suporte e inexistente, esperei nove dias por uma resposta.",Equipamento agricola compacto motorizado para pequenas propriedades
+185,Esteira EX-5,Razoavel. Esperava um pouco mais de potencia pelo valor.,Esteira transportadora industrial em lona reforcada com motor eletrico
+186,Esteira EX-5,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Esteira transportadora industrial em lona reforcada com motor eletrico
+187,VX-200,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+188,Kit Manutencao,"Instalacao simples, o manual e claro e o suporte respondeu na hora.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+189,Kit Manutencao,Entrega pontual e embalagem impecavel. Produto perfeito.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+190,Filtro FR-88,"Robusto, silencioso e economico. Superou a expectativa.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+191,Filtro FR-88,"Manual so em ingles, meus operadores nao conseguiram usar.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+192,Filtro FR-88,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+193,VX-200,Chegou com a carcaca amassada e ninguem respondeu meu chamado.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+194,Filtro FR-88,"Excelente acabamento, muito superior ao que eu usava antes.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+195,VX-200,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+196,VX-100,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Equipamento agricola compacto motorizado para pequenas propriedades
+197,VX-100,Entrega pontual e embalagem impecavel. Produto perfeito.,Equipamento agricola compacto motorizado para pequenas propriedades
+198,VX-200,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+199,Kit Manutencao,Peca de reposicao caríssima e sempre em falta no estoque.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+200,VX-100,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Equipamento agricola compacto motorizado para pequenas propriedades
+201,VX-100,Quebrou em duas semanas de uso normal. Pessimo.,Equipamento agricola compacto motorizado para pequenas propriedades
+202,Esteira EX-5,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Esteira transportadora industrial em lona reforcada com motor eletrico
+203,Esteira EX-5,"Manual so em ingles, meus operadores nao conseguiram usar.",Esteira transportadora industrial em lona reforcada com motor eletrico
+204,Kit Manutencao,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+205,VX-200,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+206,VX-200,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+207,Esteira EX-5,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+208,VX-200,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+209,Filtro FR-88,"Ja e o terceiro que compro, nunca me deixou na mao.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+210,VX-200,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+211,VX-200,"Ja e o terceiro que compro, nunca me deixou na mao.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+212,Kit Manutencao,"Manual so em ingles, meus operadores nao conseguiram usar.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+213,VX-100,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola compacto motorizado para pequenas propriedades
+214,Esteira EX-5,Consumo de energia muito acima do que diz a ficha tecnica.,Esteira transportadora industrial em lona reforcada com motor eletrico
+215,Kit Manutencao,"Atende bem, mas o prazo de entrega foi maior que o informado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+216,Filtro FR-88,Quebrou em duas semanas de uso normal. Pessimo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+217,Filtro FR-88,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+218,Kit Manutencao,Razoavel. Esperava um pouco mais de potencia pelo valor.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+219,Filtro FR-88,"Ja e o terceiro que compro, nunca me deixou na mao.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+220,VX-100,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola compacto motorizado para pequenas propriedades
+221,Filtro FR-88,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+222,Esteira EX-5,Atendimento rapido e produto de qualidade. Recomendo.,Esteira transportadora industrial em lona reforcada com motor eletrico
+223,VX-200,"Robusto, silencioso e economico. Superou a expectativa.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+224,Kit Manutencao,"Produto ok pelo preco, embora o manual pudesse ser melhor.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+225,Kit Manutencao,Razoavel. Esperava um pouco mais de potencia pelo valor.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+226,Kit Manutencao,Quebrou em duas semanas de uso normal. Pessimo.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+227,Filtro FR-88,Atendimento rapido e produto de qualidade. Recomendo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+228,Filtro FR-88,Peca de reposicao caríssima e sempre em falta no estoque.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+229,Kit Manutencao,"Atende bem, mas o prazo de entrega foi maior que o informado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+230,Kit Manutencao,Consumo de energia muito acima do que diz a ficha tecnica.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+231,Filtro FR-88,Entrega pontual e embalagem impecavel. Produto perfeito.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+232,Filtro FR-88,Atendimento rapido e produto de qualidade. Recomendo.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+233,VX-200,Peca de reposicao caríssima e sempre em falta no estoque.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+234,VX-200,"O suporte e inexistente, esperei nove dias por uma resposta.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+235,VX-100,Entrega pontual e embalagem impecavel. Produto perfeito.,Equipamento agricola compacto motorizado para pequenas propriedades
+236,Filtro FR-88,Consumo de energia muito acima do que diz a ficha tecnica.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+237,Esteira EX-5,"Excelente acabamento, muito superior ao que eu usava antes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+238,VX-100,"Ja e o terceiro que compro, nunca me deixou na mao.",Equipamento agricola compacto motorizado para pequenas propriedades
+239,VX-100,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola compacto motorizado para pequenas propriedades
+240,Filtro FR-88,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+241,Esteira EX-5,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Esteira transportadora industrial em lona reforcada com motor eletrico
+242,Kit Manutencao,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+243,Esteira EX-5,Entrega pontual e embalagem impecavel. Produto perfeito.,Esteira transportadora industrial em lona reforcada com motor eletrico
+244,Kit Manutencao,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+245,Filtro FR-88,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+246,VX-200,"Manual so em ingles, meus operadores nao conseguiram usar.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+247,Kit Manutencao,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+248,VX-100,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Equipamento agricola compacto motorizado para pequenas propriedades
+249,VX-200,Quebrou em duas semanas de uso normal. Pessimo.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+250,Esteira EX-5,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+251,Esteira EX-5,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Esteira transportadora industrial em lona reforcada com motor eletrico
+252,Esteira EX-5,Entrega pontual e embalagem impecavel. Produto perfeito.,Esteira transportadora industrial em lona reforcada com motor eletrico
+253,Filtro FR-88,"Manual so em ingles, meus operadores nao conseguiram usar.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+254,Filtro FR-88,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+255,Esteira EX-5,Quebrou em duas semanas de uso normal. Pessimo.,Esteira transportadora industrial em lona reforcada com motor eletrico
+256,VX-100,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola compacto motorizado para pequenas propriedades
+257,VX-200,Vale cada centavo. Reduziu o tempo de operacao pela metade.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+258,Esteira EX-5,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,Esteira transportadora industrial em lona reforcada com motor eletrico
+259,Kit Manutencao,Razoavel. Esperava um pouco mais de potencia pelo valor.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+260,Filtro FR-88,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+261,Filtro FR-88,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+262,VX-200,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+263,Esteira EX-5,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.",Esteira transportadora industrial em lona reforcada com motor eletrico
+264,Kit Manutencao,Atendimento rapido e produto de qualidade. Recomendo.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+265,VX-100,"O suporte e inexistente, esperei nove dias por uma resposta.",Equipamento agricola compacto motorizado para pequenas propriedades
+266,VX-200,"Instalacao simples, o manual e claro e o suporte respondeu na hora.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+267,Esteira EX-5,"Atendimento despreparado, transferiram minha ligacao quatro vezes.",Esteira transportadora industrial em lona reforcada com motor eletrico
+268,Filtro FR-88,Entrega pontual e embalagem impecavel. Produto perfeito.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+269,Filtro FR-88,Entrega atrasou quinze dias e o produto veio incompleto.,Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+270,Esteira EX-5,Razoavel. Esperava um pouco mais de potencia pelo valor.,Esteira transportadora industrial em lona reforcada com motor eletrico
+271,VX-200,Razoavel. Esperava um pouco mais de potencia pelo valor.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+272,Filtro FR-88,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+273,VX-200,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+274,Filtro FR-88,"Produto ok pelo preco, embora o manual pudesse ser melhor.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+275,Kit Manutencao,Razoavel. Esperava um pouco mais de potencia pelo valor.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+276,Filtro FR-88,"Robusto, silencioso e economico. Superou a expectativa.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+277,Kit Manutencao,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+278,Filtro FR-88,"Ja e o terceiro que compro, nunca me deixou na mao.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+279,VX-200,Peca de reposicao caríssima e sempre em falta no estoque.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+280,Kit Manutencao,Entrega atrasou quinze dias e o produto veio incompleto.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+281,Kit Manutencao,Consumo de energia muito acima do que diz a ficha tecnica.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+282,VX-200,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+283,Filtro FR-88,"Robusto, silencioso e economico. Superou a expectativa.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+284,Esteira EX-5,Chegou com a carcaca amassada e ninguem respondeu meu chamado.,Esteira transportadora industrial em lona reforcada com motor eletrico
+285,Esteira EX-5,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Esteira transportadora industrial em lona reforcada com motor eletrico
+286,VX-100,Razoavel. Esperava um pouco mais de potencia pelo valor.,Equipamento agricola compacto motorizado para pequenas propriedades
+287,Kit Manutencao,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+288,Filtro FR-88,"Atende bem, mas o prazo de entrega foi maior que o informado.",Filtro de reposicao em fibra sintetica para equipamentos da linha VX
+289,Kit Manutencao,Segunda vez com o mesmo defeito. Perdi a confianca na marca.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+290,VX-200,Atendimento rapido e produto de qualidade. Recomendo.,Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+291,VX-100,Chegou antes do prazo e ja esta funcionando sem nenhum problema.,Equipamento agricola compacto motorizado para pequenas propriedades
+292,Esteira EX-5,Atendimento rapido e produto de qualidade. Recomendo.,Esteira transportadora industrial em lona reforcada com motor eletrico
+293,VX-200,"Funciona como esperado, nada de excepcional mas cumpre o que promete.",Equipamento agricola motorizado de alta potencia para uso continuo em lavoura
+294,VX-100,"Atende bem, mas o prazo de entrega foi maior que o informado.",Equipamento agricola compacto motorizado para pequenas propriedades
+295,Esteira EX-5,"Manual so em ingles, meus operadores nao conseguiram usar.",Esteira transportadora industrial em lona reforcada com motor eletrico
+296,Kit Manutencao,"Barulho excessivo desde o primeiro dia, muito abaixo do esperado.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+297,Kit Manutencao,Razoavel. Esperava um pouco mais de potencia pelo valor.,"Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
+298,VX-100,Consumo de energia muito acima do que diz a ficha tecnica.,Equipamento agricola compacto motorizado para pequenas propriedades
+299,VX-100,Entrega atrasou quinze dias e o produto veio incompleto.,Equipamento agricola compacto motorizado para pequenas propriedades
+300,Kit Manutencao,"Instalacao simples, o manual e claro e o suporte respondeu na hora.","Conjunto de pecas de reposicao, correias, vedacoes e lubrificante"
